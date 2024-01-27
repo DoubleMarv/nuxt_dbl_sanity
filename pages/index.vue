@@ -44,7 +44,7 @@ import image_a from '~/assets/images/dash.jpg'
 import image_b from '~/assets/images/dash_2.png'
 import image_c from '~/assets/images/dash_3.png'
 import image_d from '~/assets/images/dash_3.png'
-import lottieurl from '~/assets/lottie/data.json'
+import lottieurl from '~/assets/lottie/data_b.json'
 
 import imageb_a from '~/assets/images/coolscreenshot.png'
 import imageb_b from '~/assets/images/covidgame.jpg'

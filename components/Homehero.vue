@@ -7,6 +7,7 @@
 class="lottie_container"
 :animation-data="lottieurlstring" 
 loop="false"
+:speed="1.5"
 
 />
 
@@ -43,7 +44,7 @@ background: #7ADCED;
 
 .lottie_container{
   width: 70rem;
-  max-width: 70vw;
+  max-width: 50vw;
 }
 .underzone{
     position: absolute;
